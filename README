@@ -1,0 +1,15 @@
+Olark Chat Integration for Elgg
+---------------------------------
+Install:
+--------
+1) Unzip olark_chat.zip in your elgg site's mod/ folder
+
+2) Log into your site as admin and enable the plugin under Administration->Tools Administriation.
+
+3) Follow the "Click here to obtain a key" link in the plugin setting or go to http://www.olark.com/?rid=mehatem to create an olark chat account. Your key can be found under the 'Chat Box' script code, it looks something like 'olark-0000-000-00-0000'
+
+4) Enter your olark key in the textbox and click 'Save'. 
+
+Support:
+--------
+If you have any questions, please sent an email to txtan@redmelonconsulting.com
